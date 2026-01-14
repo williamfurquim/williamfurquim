@@ -1,8 +1,8 @@
 ## Olá Mundo, eu sou o William 👋
 - 💻 Estudante de programação  
 - 🧠 Fullstack
-- 🤖 Programação funcional  
-- 🤳 Também faço sites bonitos e funcionais  
+- 🤖 Automatizações
+- 🤳 Faço sites bonitos
 
 ## 👉 Projetos em destaque
 🔹 [Meu portfólio](https://github.com/williamfurquim/willfurq)
