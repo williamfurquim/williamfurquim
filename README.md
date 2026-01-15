@@ -2,7 +2,7 @@
 - 💻 Estudante de programação  
 - 🧠 Fullstack
 - 🤖 Automatizações
-- 🤳 Faço sites bonitos
+- 🤳 Faço uns sites bonitos aí!
 
 ## 👉 Projetos em destaque
 🔹 [Meu portfólio](https://github.com/williamfurquim/willfurq)
