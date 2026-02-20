@@ -1,4 +1,4 @@
-## Olá Mundo, eu sou o William 👋
+## Hey There! Me chamo William Furquim e sou desenvolvedor Front-end 👋
 - 💻 Estudante de programação  
 - 🧠 Fullstack
 - 🤖 Automatizações
