@@ -1,7 +1,7 @@
 ## Olá! Eu sou William Furquim 👋
 
-Desenvolvedor Front-end focado em React e TypeScript, com formação em Análise de Dados.
-Foco em desenvolvimento de aplicações web performáticas, componentizadas e responsivas, aplicando boas práticas de código e organização.
+Programador Front-end com foco em React e TypeScript, formação em Análise de Dados.
+Desenvolvimento de aplicações web performáticas e escaláveis, com componentização, integração com APIs e organização baseada em boas práticas de arquitetura.
 
 ---
 
@@ -13,3 +13,7 @@ TypeScript
 
 ## 🧠 Conhecimentos Complementares
 Firebase • SQL • C# • C++
+
+✔ Experiência com autenticação e CRUD
+✔ Integração com Firebase (Auth e Firestore)
+✔ Aplicações responsivas (Mobile-first)
