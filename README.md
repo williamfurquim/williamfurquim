@@ -1,7 +1,7 @@
-## Hey There! Me chamo William Furquim 👋
-- 💻 Estudante de programação
+## Hey! Eu me chamo William Furquim 👋
+- 💻 Sou estudante de programação formado em Análise de Dados
 - 🔥 Desenvolvedor Front-end
-- 🤖 Interfaces, automações e sites funcionais
+- 🤖 Crio sites que solucionam problemas, funcionais e responsivos
 
 ## 🚀 Tecnologias que mais uso:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
