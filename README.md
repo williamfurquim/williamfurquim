@@ -28,5 +28,8 @@ ConnectPolo - Sistema de Gestão
 Proximity - Comunicação na Vizinhança
 [https://github.com/williamfurquim/Proximity](https://github.com/williamfurquim/Proximity)
 
-Robótica - ESP32
+Automatização Robótica - ESP32
 [https://github.com/williamfurquim/Projeto-de-robotica](https://github.com/williamfurquim/Projeto-de-robotica)
+
+BotStation - CRUD
+[https://github.com/williamfurquim/BotStation](https://github.com/williamfurquim/BotStation)
