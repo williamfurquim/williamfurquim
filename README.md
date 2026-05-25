@@ -25,7 +25,7 @@ Interface web de baixa latência para controle e monitoramento de sensores e atu
 - **Diferencial:** Comunicação via WebServer embarcado, controle de GPIOs e execução de ciclos automáticos industriais.
 - **Tech:** C++, HTML/JS, Comunicação via Access Point.
 
-### 📚 [Revise.e - Revisão ativa]([https://github.com/williamfurquim/Projeto-de-robotica](https://revise-theta.vercel.app))
+### 📚 [Revise.e - Revisão ativa](https://github.com/williamfurquim/Revise.e)
 Aplicação para otimização de estudos e revisão através de ocultamento de palavras-chave.
 - **Diferencial:** Sistema de revisão de anotações através do método de Cloze Deletion.
 - **Tech:** NodeJS, Prisma ORM (Neon), React, TypeScript, CSS3.
